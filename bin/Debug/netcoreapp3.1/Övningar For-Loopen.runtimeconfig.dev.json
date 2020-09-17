@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Torto\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Torto\\.nuget\\packages"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+C:\Users\Torto\OneDrive\Skrivbord\Filer\SUVNET 2020\Visual Studio Code\OOP1\Övningar For-Loopen\bin\Debug\netcoreapp3.1\Övningar For-Loopen.exe
+C:\Users\Torto\OneDrive\Skrivbord\Filer\SUVNET 2020\Visual Studio Code\OOP1\Övningar For-Loopen\bin\Debug\netcoreapp3.1\Övningar For-Loopen.deps.json
+C:\Users\Torto\OneDrive\Skrivbord\Filer\SUVNET 2020\Visual Studio Code\OOP1\Övningar For-Loopen\bin\Debug\netcoreapp3.1\Övningar For-Loopen.runtimeconfig.json
+C:\Users\Torto\OneDrive\Skrivbord\Filer\SUVNET 2020\Visual Studio Code\OOP1\Övningar For-Loopen\bin\Debug\netcoreapp3.1\Övningar For-Loopen.runtimeconfig.dev.json
+C:\Users\Torto\OneDrive\Skrivbord\Filer\SUVNET 2020\Visual Studio Code\OOP1\Övningar For-Loopen\bin\Debug\netcoreapp3.1\Övningar For-Loopen.dll
+C:\Users\Torto\OneDrive\Skrivbord\Filer\SUVNET 2020\Visual Studio Code\OOP1\Övningar For-Loopen\bin\Debug\netcoreapp3.1\Övningar For-Loopen.pdb
+C:\Users\Torto\OneDrive\Skrivbord\Filer\SUVNET 2020\Visual Studio Code\OOP1\Övningar For-Loopen\obj\Debug\netcoreapp3.1\Övningar For-Loopen.csprojAssemblyReference.cache
+C:\Users\Torto\OneDrive\Skrivbord\Filer\SUVNET 2020\Visual Studio Code\OOP1\Övningar For-Loopen\obj\Debug\netcoreapp3.1\Övningar For-Loopen.AssemblyInfoInputs.cache
+C:\Users\Torto\OneDrive\Skrivbord\Filer\SUVNET 2020\Visual Studio Code\OOP1\Övningar For-Loopen\obj\Debug\netcoreapp3.1\Övningar For-Loopen.AssemblyInfo.cs
+C:\Users\Torto\OneDrive\Skrivbord\Filer\SUVNET 2020\Visual Studio Code\OOP1\Övningar For-Loopen\obj\Debug\netcoreapp3.1\Övningar For-Loopen.csproj.CoreCompileInputs.cache
+C:\Users\Torto\OneDrive\Skrivbord\Filer\SUVNET 2020\Visual Studio Code\OOP1\Övningar For-Loopen\obj\Debug\netcoreapp3.1\Övningar For-Loopen.dll
+C:\Users\Torto\OneDrive\Skrivbord\Filer\SUVNET 2020\Visual Studio Code\OOP1\Övningar For-Loopen\obj\Debug\netcoreapp3.1\Övningar For-Loopen.pdb
+C:\Users\Torto\OneDrive\Skrivbord\Filer\SUVNET 2020\Visual Studio Code\OOP1\Övningar For-Loopen\obj\Debug\netcoreapp3.1\Övningar For-Loopen.genruntimeconfig.cache
